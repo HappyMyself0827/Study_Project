@@ -1,8 +1,7 @@
-include branch
-
-Study_C
-Study_C++
-Study_QtProject 
+all branch
+develop_C
+develop_C++
+develop_QtProject 
 
 
 
